@@ -1,0 +1,8 @@
+[About]
+name = "RocketThread"
+description = "Interop Threading plugin, uses Intel TBB if available"
+version = "0.0.1"
+enabled = true
+
+[ThirdParty]
+oneTBB.enabled = true

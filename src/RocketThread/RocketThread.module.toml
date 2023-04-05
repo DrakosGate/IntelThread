@@ -1,0 +1,10 @@
+[About]
+name = "RocketThread"
+description = "Interop threading plugin using Intel TBB if available"
+enabled = true
+
+[CMake]
+link = [
+    "RocketCore",
+    "oneTBB"
+]

@@ -1,0 +1,5 @@
+# threading test with and without Intel TBB for comparison
+[TestCases.basic.client_and_host]
+enabled = false
+command = []
+timeout = 5
